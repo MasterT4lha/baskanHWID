@@ -1,1 +1,1 @@
-# baskanHWID
+// vds hwidleri buraya atıcan bebeğim
